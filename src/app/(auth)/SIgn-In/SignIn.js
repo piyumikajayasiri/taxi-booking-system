@@ -14,7 +14,7 @@ const SignIn = () => {
     <Card className="w-96 items-center justify-center m-60">
         <CardHeader>
             <CardTitle>Sign-In</CardTitle>
-            <CardDescription>please sign in here</CardDescription>
+            <CardDescription>please sign in here...</CardDescription>
         </CardHeader>
         <CardContent>
             <form>
