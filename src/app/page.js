@@ -5,7 +5,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-gray-300">
+    <div className="min-h-screen bg-gray-200">
       <Header />
       <main>
         <div className="max-w-7xl mx-auto px-4 py-12 ">
